@@ -34,7 +34,7 @@ Log management for each day, charging station, and energy source Simulation of d
 
 3. **Make sure you have Java 8 or higher installed** to run the program.
 
-## Usage
+## Task Distribution
 ### Log Management
 Log Management (Mohammed) Responsible for creating, moving, deleting, and archiving log files. Simulated the creation of log files for each day, each charging station, and each energy source. Implemented file operation methods and metadata tracking.
 
