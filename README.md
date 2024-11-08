@@ -12,7 +12,7 @@ Overview This project is an energy management system developed to simulate data 
   - [Data Exchange](#Data-Exchange)
   - [User Interaction and Search Functionality](#Search-Functionality)
   - [Metadata and Project Integration](#Metadata)
-- [Link and Nat no.](#link-and-mat-no)
+- [Link and Matriculation no.](#link-and-mat-no)
 
 ## Features
 Log management for each day, charging station, and energy source Simulation of data exchange using byte and character streams User interaction for opening log files based on equipment name or date Metadata management to track log operations (create, move, delete, archive) Regular expression-based search functionality
